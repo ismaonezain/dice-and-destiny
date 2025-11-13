@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Hardhat
+artifacts/
+buid/
+
+# Environment files
+.env
+.env.local
+.env.*.local
